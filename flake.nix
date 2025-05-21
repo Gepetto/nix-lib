@@ -15,8 +15,7 @@
             )
           );
         rosVersion = version "xq" ".package.version";
-        pythonVersion = version "tomlq" ".package.version";
+        pythonVersion = version "tomlq" ".project.version";
       };
-
     };
 }
